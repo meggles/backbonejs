@@ -1,0 +1,35 @@
+##Javascript Review
+#
+#object literal - key value pairs
+#functions are objects
+#everything is an object
+#events: user interactions to listen to and take action on
+#functional scope "this"
+#jquery - addresses browser incompatibilies, easy to traverse dom, animation
+#ajax - make server request/http call within a page, page doens't need to refresh
+#json - javascript object notation, way to store and transport data
+#
+#
+#
+##Design Patterns - common ways to building software that people have figured out over time
+#
+#Observer - events...ehhh..
+#MVC - way to structure code so separate presentation logic from data
+#SOA - service oriented architecture - break app down to different services that can communicate with eachother...lots of little apps connected to eachother
+#
+#
+#ajax problem...select something that isn't already there...event delegation
+#
+#
+#Backbone - provides tools, doesn't dictate structure, very lightweight
+#Angular - makes you structure the code a certain way
+#
+#Underscore - toolbelt different 
+
+Components
+
+Model - represents data
+in backbone, there is a model already configured for you that you can take and modify
+
+
+next week...learn to use modules to structure code
